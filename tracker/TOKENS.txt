@@ -1,0 +1,4 @@
+//tokens to be used for authentication with the twitter API.
+
+Access token 	408029985-qvqbbDJYZOxXQhjoRVLrRegauTaeF05Ru8ANc4Zs
+Access token secret 	uiOLGGst1PTb7fgYIRswAQJ0n34xcHEIOnx98LVIrU
